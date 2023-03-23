@@ -1,0 +1,12 @@
+PROMED10S FUNCIONES EXPLICADAS     
+
+Mostrar los partidos  de hoy: El administrador ingresa los partidos del dia al sistema para que el usuario pueda interactuar con estos 
+
+Mostrar tablas de clasificacion: El administrador actualiza las tablas de clasificacion de las distintas ligas diariamente para que el usuario pueda 
+interactuar con estas 
+
+Mostrar goleadores: El administrador ingresa los goleadores del dia al sistema para que el usuario pueda interactuar con estos 
+
+Ingresar apuestas: El usuario tiene la posibilidad de apostar por un ganador y/o el goleador de un determinado partido del dia antes de que este empiece, ademas de poder apostar por quien ganara una determinada competencia 
+
+Reclamar dinero de apuesta: El administrador se encarga de reclamar el dinero conseguido por las apuestas perdidas de los usuarios y de pagar a los ganadores de las apuestas.
